@@ -1,14 +1,19 @@
 # Hi there! 👋 I'm Kushagra Sahay
 
+## GitHub Stats
+
+![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviatorCoderr&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats)
+
+Total Contributions: [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AviatorCoderr)](#)  
+Current Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AviatorCoderr&theme=dark)](#)
+
 ## About Me
 
 I'm a sophomore pursuing B.Tech in Computer Science and Engineering at BIT Mesra, passionate about leveraging technology to solve real-world problems. I have a strong foundation in web development, project management, and a deep interest in Data Structures & Algorithms (DSA).
-![Coding in Action](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-<!-- GitHub Stats -->
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviatorCoderr&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats)
-Total Contributions: [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kushagrasahay21)](#)  
-- Current Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushagrasahay21&theme=dark)](#)
+<div style="float: right;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</div>
 
 ## Projects
 
