@@ -3,9 +3,12 @@
 ## About Me
 
 I'm a sophomore pursuing B.Tech in Computer Science and Engineering at BIT Mesra, passionate about leveraging technology to solve real-world problems. I have a strong foundation in web development, project management, and a deep interest in Data Structures & Algorithms (DSA).
+![Coding in Action](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <!-- GitHub Stats -->
 ![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviatorCoderr&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats)
+Total Contributions: [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kushagrasahay21)](#)  
+- Current Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushagrasahay21&theme=dark)](#)
 
 ## Projects
 
@@ -38,10 +41,6 @@ Developed a web-based management system for the Pearl Crest Society, optimizing 
 
 - 🌐 **Webmaster** at IET Student Branch BIT Mesra: Responsible for maintaining and updating the branch website, enhancing digital presence, and facilitating communication.
 - 🚀 **Team Lead** of Bitacademia: Leading a team to develop and manage an integrated academic portal used by students and faculty.
-
-## Coding in Action
-
-![Coding in Action](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Connect with Me
 
