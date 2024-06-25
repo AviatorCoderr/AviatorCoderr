@@ -5,7 +5,7 @@
 I'm a sophomore pursuing B.Tech in Computer Science and Engineering at BIT Mesra, passionate about leveraging technology to solve real-world problems. I have a strong foundation in web development, project management, and a deep interest in Data Structures & Algorithms (DSA).
 
 <!-- GitHub Stats -->
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushagrasahay21&show_icons=true&count_private=true&theme=radical)
+![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviatorCoderr&show_icons=true&count_private=true&theme=radical)
 
 ## Projects
 
